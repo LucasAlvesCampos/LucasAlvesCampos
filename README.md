@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas, seja bem vindo ao meu perfil!
+### Olá, meu nome é Lucas, seja bem vindo ao meu perfil.
 
 <div>
   <a href="https://github.com/LucasAlvesCampos">
