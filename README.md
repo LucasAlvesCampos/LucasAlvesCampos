@@ -1,5 +1,7 @@
 ### Olá 👋 meu nome é Lucas, seja bem vindo ao meu perfil.
 
+Desenvolvedor de software, apaixonado por desafios.
+
 <div>
   <a href="https://github.com/LucasAlvesCampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvesCampos&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide=contribs,issues"/>
